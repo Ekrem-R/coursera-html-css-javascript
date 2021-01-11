@@ -38,11 +38,12 @@ section {
 
 #team1 {
 	border: 2px solid blue;
+	float:right;
 	text-align: center;
 	width: 30%;
 	font-family: 'Times New Roman', serif;
 	font-weight: bold;
-	font-size: 16px;
+	font-size: 24px;
 	margin:0 15px;
 	padding: 5px;
 	background-color: #374045;
@@ -50,6 +51,7 @@ section {
 
 #team2 {	
 	text-align: center;
+	float:right;
 	width: 30%;
 	font-family: 'Times New Roman', serif;
 	font-weight: bold;
@@ -62,20 +64,21 @@ section {
 
 #team3 {
 	border: 1px solid blue;
+	float:right;
 	text-align: center;
 	width: 30%;
-  background-color: #e1d89f;
+        background-color: #e1d89f;
 	font-family:'Times New Roman', serif;
 	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;	
+	font-size: 24px;
+	margin:0 15px;
 	color: white;
 	padding: 5px;
 }
 
 .row {
-	width: 33%;
+	width: 80%;
+	float:right;
 }
 
 /* Desktop view */
