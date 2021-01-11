@@ -21,7 +21,6 @@ p {
 
 .container {
 	
-	margin: auto 0;
 	padding: 10px;
   border: 1px;
 }
@@ -38,7 +37,7 @@ section {
 
 
 #team1 {
-	border: 1px solid blue;
+	border: 2px solid blue;
 	text-align: center;
 	width: 30%;
 	font-family: 'Times New Roman', serif;
@@ -76,7 +75,7 @@ section {
 }
 
 .row {
-	width: 100%;
+	width: 33%;
 }
 
 /* Desktop view */
